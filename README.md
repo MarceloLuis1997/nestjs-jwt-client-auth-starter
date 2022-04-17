@@ -38,7 +38,7 @@ $ npm install
 
 ## Env Configuration
 
-Create a .env file and configure your database connection and a `JWT_SECRET_KEY`. You can simply generate a key with the command `openssl rand -base64 32`.
+Create a `.env` file and configure your database connection and a `JWT_SECRET_KEY`. You can simply generate a key with the command `openssl rand -base64 32`.
 
 ## Running the app
 
